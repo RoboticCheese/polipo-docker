@@ -1,0 +1,4 @@
+{
+  "polipo": {},
+  "run_list": ["recipe[polipo]"]
+}
