@@ -1,6 +1,8 @@
 {
   "polipo": {
-    "log_file": "/var/log/polipo/polipo.log"
+    "config": {
+      "log_file": "/var/log/polipo/polipo.log"
+    }
   },
   "run_list": ["recipe[polipo]"]
 }
